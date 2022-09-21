@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Suvinda Perera</h1>
+
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Special+Elite&size=24&duration=2500&pause=1000&color=04F77B&center=true&width=435&lines=Undergraduate+Student;UI+%2F+UX+Enthusiast;Graphic+Designer;Interior+Designer;Freehand+Artist;GIS+Lover" alt="Typing SVG" /></a>
+</div>
+
 <h3 align="center">A undergraduate student following passion in Multimedia development, UI/UX and GIS</h3>
+
+
+
 
 - 🌱 I’m currently learning **Frontend development along with Three.js and QGIS**
 
